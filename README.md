@@ -2,23 +2,23 @@
 🚀 Software Engineer | Back-End Developer | AI Enthusiast
 
 ## About me
-💡 Always learning, always building!
-⚡ Passionate about software development, AI, and automation
-🔍 Exploring Full-Stack Development & AI-driven solutions
+💡 Always learning, always building!  
+⚡ Passionate about software development, AI, and automation  
+🔍 Exploring Full-Stack Development & AI-driven solutions  
 🛠️ Debugging life, one commit at a time!
 
 ## 🔥 GitHub Activity
-📌 Current Focus: Improving my backend development skills and exploring AI applications.
-💡 What I'm Working On: Building scalable and efficient systems.
-📊 Contributions: Committed to writing clean, efficient, and maintainable code.
+📌 Current Focus: Improving my backend development skills and exploring AI applications.  
+💡 What I'm Working On: Building scalable and efficient systems.  
+📊 Contributions: Committed to writing clean, efficient, and maintainable code.  
 🔄 Always Learning: Constantly improving through new challenges and projects.
 
 
 ## 🛠️ Tech Stack
-💠 Languages: JavaScript, Python, C
-⚡ Backend: Node.js, Express.js, MongoDB, Mongoose
-🎨 Frontend: HTML, CSS, JavaScript
-📂 Databases: MongoDB, MySQL
+💠 Languages: JavaScript, Python, C  
+⚡ Backend: Node.js, Express.js, MongoDB, Mongoose  
+🎨 Frontend: HTML, CSS, JavaScript  
+📂 Databases: MongoDB, MySQL  
 🔌 Tools & DevOps: Git, Docker, Postman, Redis
 
  ## 📫 Connect With Me:

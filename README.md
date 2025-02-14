@@ -1,29 +1,29 @@
- **👋 Hey there, I'm Ahmed Almakki!**
+ # 👋 Hey there, I'm Ahmed Almakki!
 🚀 Software Engineer | Back-End Developer | AI Enthusiast
 
-**About me**
+## About me
 💡 Always learning, always building!
 ⚡ Passionate about software development, AI, and automation
 🔍 Exploring Full-Stack Development & AI-driven solutions
 🛠️ Debugging life, one commit at a time!
 
-**🔥 GitHub Activity**
+## 🔥 GitHub Activity
 📌 Current Focus: Improving my backend development skills and exploring AI applications.
 💡 What I'm Working On: Building scalable and efficient systems.
 📊 Contributions: Committed to writing clean, efficient, and maintainable code.
 🔄 Always Learning: Constantly improving through new challenges and projects.
 
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 💠 Languages: JavaScript, Python, C
 ⚡ Backend: Node.js, Express.js, MongoDB, Mongoose
 🎨 Frontend: HTML, CSS, JavaScript
 📂 Databases: MongoDB, MySQL
 🔌 Tools & DevOps: Git, Docker, Postman, Redis
 
- ### 📫 Connect With Me:
+ ## 📫 Connect With Me:
 
-💼 **Let's Connect & Build Together!** Feel free to reach out:  
+### 💼 Let's Connect & Build Together! Feel free to reach out:  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-almakki-846b4420a" target="_blank">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -62,5 +62,5 @@
 </p>
 
 
-### 📌 Fun Fact:
+## 📌 Fun Fact:
 💻 I write code for fun and debug for survival! 😆

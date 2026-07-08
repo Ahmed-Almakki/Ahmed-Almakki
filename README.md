@@ -1,5 +1,5 @@
  # 👋 Hey there, I'm Ahmed Almakki!
-🚀 Software Engineer | Back-End Developer | AI Enthusiast
+🚀 Software Engineer | AI/ML & Full-Stack Developer | Building & Deploying End-to-End RAG & Generative AI Systems | MLOPS
 
 ## About me
 💡 Always learning, always building!  

@@ -25,4 +25,4 @@ Prior to specializing in AI and MLOps, I engineered complex full-stack systems f
 ## Contact Information
 
 *   **Email:** ahmedlmakkii@gmail.com
-*   **LinkedIn:** [Ahmed Sulieman](www.linkedin.com/in/ahmed-sulieman-846b4420a)
+*   **LinkedIn:** [Ahmed Sulieman](https://www.linkedin.com/in/ahmed-sulieman-846b4420a)
